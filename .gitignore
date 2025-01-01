@@ -1,0 +1,17 @@
+.env
+log
+doc
+
+
+# Virtual environment directories
+venv/
+.env/
+.virtualenv/
+bin
+include
+lib
+lib64
+__pycache__
+
+# Virtual environment configuration file
+pyvenv.cfg
